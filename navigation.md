@@ -1,4 +1,4 @@
-![innfos](logo1.jpg)
+![innfos](logo.png)
 
 # MDwiki
 
