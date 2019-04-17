@@ -1,3 +1,5 @@
+![innfos](innfos-logo.jpg)
+
 # MDwiki
 
 [Main Page](index.md)
