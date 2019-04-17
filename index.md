@@ -88,9 +88,3 @@ Version Information
 | V1.0.0       |   2018-11-12  |  The first version |
 
 
-License
--------
-
-MDwiki is licensed under [GNU GPLv3 with additional terms applied][license].
-
-  [license]: https://github.com/Dynalon/mdwiki/blob/master/LICENSE.txt
